@@ -1,0 +1,54 @@
+
+
+[
+  {
+    "id": "123456",
+    "cover_img": "https://i.ibb.co/s9HmFDY/landing-page-template-blogging-modern-flat-design-concept-web-page-design-website-mobile-website-101.jpg",
+    "author": "Jane Doe",
+    "author_img": "https://i.ibb.co/7VjnJPm/thoughtful-creative-male-journalist-writer-biting-pencil-holding-notebook-writing-schedule-look-thin.jpg",
+    "title": "Exploring the Mysteries of Quantum Mechanics",
+    "posted_date": "2024-03-13",
+    "reading_time": 10,
+    "hashtags": ["#QuantumPhysics", "#Science", "#Exploration"]
+  },
+  {
+    "id": "789012",
+    "cover_img": "https://i.ibb.co/2kBYkGt/technology-communication-icons-symbols-concept-53876-120314.jpg",
+    "author": "John Smith",
+    "author_img": "https://i.ibb.co/tYV3N6g/portrait-thinking-young-readhead-man-white-shirt-sitting-wooden-table-with-pen-his-mouth-171337-9874.jpg",
+    "title": "The Art of Mindfulness: Finding Peace in Chaos",
+    "posted_date": "2024-03-12",
+    "reading_time": 15,
+    "hashtags": ["#Mindfulness", "#Peace", "#Wellness"]
+  },
+  {
+    "id": "345678",
+    "cover_img": "https://i.ibb.co/BnQYWL2/internet-blog-blogging-concept-3d-illustration-391052-1332.jpg",
+    "author": "Alice Johnson",
+    "author_img": "https://i.ibb.co/jzyFdMr/young-artist-painting-canvas-114579-26690.jpg",
+    "title": "Unraveling the Secrets of the Universe",
+    "posted_date": "2024-03-11",
+    "reading_time": 12 ,
+    "hashtags": ["#Astrophysics", "#Cosmology", "#Universe"]
+  },
+  {
+    "id": "901234",
+    "cover_img": "https://i.ibb.co/pzMFCq9/blog-concept-illustration-idea-posting-sharing-following-613284-2970.jpg",
+    "author": "David Brown",
+    "author_img": "https://i.ibb.co/c2zQBMN/asian-young-business-woman-write-note-29332-1348.jpg",
+    "title": "The Power of Positive Thinking",
+    "posted_date": "2024-03-10",
+    "reading_time": 8,
+    "hashtags": ["#PositiveThinking", "#Motivation", "#SelfHelp"]
+  },
+  {
+    "id": "567890",
+    "cover_img": "https://i.ibb.co/kqk0Khh/businessman-holds-man-person-icon-150455-4372.jpg",
+    "author": "Emily Wilson",
+    "author_img": "https://i.ibb.co/y5YZL6K/front-view-young-beautiful-lady-white-t-shirt-black-jeans-coat-holding-green-book-white-140725-18661.jpg",
+    "title": "Journey into the Depths of the Ocean",
+    "posted_date": "2024-03-09",
+    "reading_time": 20,
+    "hashtags": ["#Oceanography", "#MarineLife", "#Exploration"]
+  }
+]
